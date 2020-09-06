@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<order id="234809A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="order.xsd">
+    <billto>
+        <name>Liepa Roma</name>
+        <address>514 Vale Street</address>
+        <phone>515-758-8159</phone>
+        <phone>937-294-5207</phone>
+    </billto>
+    <shipto>
+        <name>Sigeberht Gulshan</name>
+        <address>893 Glendale Road</address>
+        <phone>619-863-0860</phone>
+    </shipto>
+    <items>
+        <item>
+            <itemid>257948</itemid>
+            <quantity>12</quantity>
+        </item>
+        <item>
+            <itemid>683047</itemid>
+            <quantity>4</quantity>
+        </item>
+        <item>
+            <itemid>982753</itemid>
+            <quantity>1</quantity>
+        </item>
+    </items>
+</order>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<order id="234809A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:noNamespaceSchemaLocation="order.xsd">
+<order id="234809A" xmlns="http://www.examplenamespace.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.examplenamespace.com order.xsd">
     <billto>
         <name>Liepa Roma</name>
         <address>514 Vale Street</address>
